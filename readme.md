@@ -2,7 +2,7 @@
 ================
 
 This is a slightly tweaked version of the original [deepfigures-open repo](https://github.com/allenai/deepfigures-open).
-It uses a custom (docker image)[https://hub.docker.com/repository/docker/dzeri96/deepfigures-cpu] to enable running the detection task.
+It uses a custom [docker image](https://hub.docker.com/repository/docker/dzeri96/deepfigures-cpu) to enable running the detection task.
 Other functionality was not tested.
 
 ## Requirements
